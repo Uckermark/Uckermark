@@ -1,2 +1,1 @@
-- I am working on an Assetto Corsa App
-- I like Python and Bash
+Hello, I'm Uckermark!
